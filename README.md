@@ -26,6 +26,6 @@ There may well be better ways to do this, I just made this to fix an annoyance o
 
 I won't provide a build of this.
 
-You shouldn't download a prebuilt version of anything that modifies your clipboard contents without asking you.
+You shouldn't download a prebuilt version of anything not well known that modifies your clipboard contents without asking you.
 
 I shouldn't need to explain why. And if you don't know why, don't download this repo.
