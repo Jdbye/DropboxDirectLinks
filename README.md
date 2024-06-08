@@ -1,4 +1,4 @@
-#Dropbox Direct Links
+# Dropbox Direct Links
 Simple concept: Change dropbox links copied to clipboard automatically to direct links. Dropbox allows us to do this thanks to the URI parameter raw=1
 We only want this for files, not folders. raw=1 makes folders download as a zip file. We don't want this. Usually.
 In my testing, these are always folders:
